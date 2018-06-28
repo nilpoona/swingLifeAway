@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "Swing life away"
+theme = "ananke"
